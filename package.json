@@ -1,0 +1,21 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "A simple RESTful Task Manager API built with Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rest-api",
+    "crud"
+  ],
+  "author": "Khizar Shah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
